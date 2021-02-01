@@ -4,4 +4,4 @@ Practicing my flutter widget and ui knowledge by creating a UI clone for Signal 
 
 ## Getting Started
 
-!(<https://raw.githubusercontent.com/FarrukhSajjad/signal_ui_flutter/master/assets/images/display.png>)
+![Demo](<https://raw.githubusercontent.com/FarrukhSajjad/signal_ui_flutter/master/assets/images/display.png>)
